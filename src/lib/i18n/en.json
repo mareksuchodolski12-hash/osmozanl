@@ -1,0 +1,246 @@
+{
+  "common": {
+    "phone": "+31 6 25379014",
+    "whatsappLink": "https://wa.me/31625379014",
+    "available24h": "Available 24/7",
+    "availableNote": "We respond within 24 hours",
+    "warranty": "5-year warranty",
+    "freeQuote": "Free Quote",
+    "email": "contact@hydraulics-water.nl",
+    "cities": ["Roermond", "Weert", "Echt", "Maasbracht", "Reuver", "Venlo", "Eindhoven", "Helmond", "Nederweert"]
+  },
+  "header": {
+    "brand": "Hydraulics & Water Systems",
+    "location": "Roermond & Surrounding Areas",
+    "getQuote": "Get Free Quote",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "New: Savings Calculator",
+    "h1Line1": "Lower bills.",
+    "h1Line2": "Smooth installation.",
+    "h1Line3": "Peace of mind for years.",
+    "subtitle": "Water softeners, reverse osmosis, modernized plumbing, and heating systems. We respond within 24 hours • Up to 5-year warranty • Free on-site quote.",
+    "ctaCalculator": "Calculate Savings",
+    "ctaQuote": "Free Quote",
+    "ctaWhatsapp": "WhatsApp",
+    "timeTip": "Takes 30 seconds. See results instantly.",
+    "savings": "Average annual customer savings:",
+    "trust1": "24-hour response to inquiries",
+    "trust2": "5-year warranty on labor",
+    "trust3": "Free on-site quote",
+    "scroll": "Scroll for details ↓"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your home and business",
+    "softener": {
+      "title": "Water Softeners",
+      "description": "Protect your plumbing from limescale buildup",
+      "benefits": [
+        "Protects pipes and appliances",
+        "Extends equipment lifespan",
+        "Cleaner water",
+        "Lower utility bills"
+      ]
+    },
+    "RO": {
+      "title": "Reverse Osmosis",
+      "description": "Pure drinking water straight from your tap",
+      "benefits": [
+        "Drinkable water on demand",
+        "Save on bottled water",
+        "Zero plastic waste",
+        "Easy installation"
+      ]
+    },
+    "heating": {
+      "title": "Heating Systems",
+      "description": "Modern heating with lower energy costs",
+      "benefits": [
+        "Energy savings",
+        "Smart automation",
+        "Even heat distribution",
+        "Dedicated support"
+      ]
+    },
+    "installation": {
+      "title": "Plumbing Modernization",
+      "description": "Replace old systems with modern solutions",
+      "benefits": [
+        "Safety",
+        "Efficiency",
+        "Warranty coverage",
+        "Professionalism"
+      ]
+    },
+    "maintenance": {
+      "title": "Service & Maintenance",
+      "description": "Regular inspections and system repairs",
+      "benefits": [
+        "Preventive protection",
+        "Quick repairs",
+        "24/7 availability",
+        "Complete peace of mind"
+      ]
+    },
+    "diagnosis": {
+      "title": "Free Diagnosis",
+      "description": "Assess your system condition with no obligation",
+      "benefits": [
+        "Detailed assessment",
+        "Expert recommendations",
+        "Action plan",
+        "No cost"
+      ]
+    }
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "subtitle": "Simple process from contact to solution",
+    "step1": {
+      "title": "Contact",
+      "description": "Call, text, or message on WhatsApp — we'll respond within 24 hours"
+    },
+    "step2": {
+      "title": "Diagnostic Visit",
+      "description": "We come to you, analyze your system, and provide a detailed quote"
+    },
+    "step3": {
+      "title": "Quote",
+      "description": "Receive a detailed, no-obligation quote in writing"
+    },
+    "step4": {
+      "title": "Installation & Testing",
+      "description": "Professional installation with warranty on all work"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "How much does a water softener cost?",
+    "a1": "Water softeners range from €400 to €2,000 depending on type and home size. For a typical four-person household, expect €800–€1,200. You'll receive a detailed quote with no obligation.",
+    "q2": "How much can I save annually?",
+    "a2": "Average savings are €400–€1,200 per year (depending on home size and system type). Your softener also protects appliances from damage, adding to the savings.",
+    "q3": "How long does installation take?",
+    "a3": "A typical water softener installation takes 3–5 hours. Heating systems may require 1–3 days depending on size. We'll provide exact timing during the diagnostic visit.",
+    "q4": "Do you offer warranty?",
+    "a4": "Yes — 5 years on labor and 2–5 years on equipment (depending on type). We also offer post-warranty service for €50–€80 annually.",
+    "q5": "When can you visit?",
+    "a5": "Emergencies: YES — 24/7 via WhatsApp. Scheduled installations: Monday–Friday, 8:00 AM–5:00 PM. For urgent cases, call us — we mobilize quickly.",
+    "stillQuestion": "Still have questions? Call or text us on WhatsApp."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Questions? Need a quote? Contact us — we're ready to help!",
+    "phone": "Phone",
+    "phoneDesc": "Call us now",
+    "phoneContent": "{{ phone }} (available 24/7)",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Quick contact",
+    "hours": "Hours",
+    "hoursDesc": "When we're available",
+    "hoursContent": "Monday–Friday: 8:00 AM–5:00 PM\nEmergencies: 24/7 via WhatsApp",
+    "location": "Location",
+    "locationDesc": "Find us",
+    "servesAreas": "Service Areas"
+  },
+  "trust": {
+    "title": "Why Our Customers Choose Us",
+    "fast": {
+      "title": "Fast Response",
+      "description": "24-hour reply to inquiries, emergency support 24/7"
+    },
+    "savings": {
+      "title": "Real Savings",
+      "description": "Average €400–€1,200 annually for our customers"
+    },
+    "warranty": {
+      "title": "Built-In Warranty",
+      "description": "5 years on labor, 2–5 years on equipment"
+    },
+    "specialist": {
+      "title": "Local Expert",
+      "description": "Roermond, Weert, Eindhoven, and Venlo"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "intro": "We respect your privacy. Contact information is kept only for communication purposes and is never shared with third parties."
+  },
+  "calculator": {
+    "title": "Calculate Your Savings",
+    "subtitle": "Estimate realistic savings for your home",
+    "backHome": "← Back to Home",
+    "benefit1": "24-hour Response",
+    "benefit1Desc": "Quick contact and initial consultation",
+    "benefit2": "Free Quote",
+    "benefit2Desc": "Detailed analysis with no obligation",
+    "benefit3": "5-Year Warranty",
+    "benefit3Desc": "Peace of mind for years to come",
+    "threeSections": "Three calculators, three ways to save",
+    "eachCalc": "Each calculator provides a personalized analysis. Just a few seconds and 3–4 clicks.",
+    "softenerTag": "Hard water → limescale damage",
+    "heatingTag": "Heating → optimized costs",
+    "waterTag": "Bottled water → RO system",
+    "ctaHeading": "Impressed? Time to act.",
+    "ctaSubheading": "Schedule a free diagnostic visit. We analyze your system and provide a detailed quote with zero obligation.",
+    "softener": {
+      "title": "Water Softener Calculator",
+      "savingsLabel": "Annual limescale cost",
+      "peopleLabel": "Number of people",
+      "hardnessLabel": "Water hardness",
+      "floorHeating": "I have radiant floor heating",
+      "boiler": "I have an electric water heater",
+      "howWeCalculate": "How we calculate",
+      "explanation": "Limescale cost = number of people × (hardness/10) × coefficients (floor heating, water heater). We multiply by €120 (average annual descaling cost in the region).",
+      "kpiBenefits": "Annual savings",
+      "kpiRisk": "Damage risk level",
+      "kpiSystem": "Recommended system",
+      "riskLow": "Low",
+      "riskMedium": "Medium",
+      "riskHigh": "High",
+      "share": "Share result on WhatsApp"
+    },
+    "heating": {
+      "title": "Heating Calculator",
+      "scenarioTab": "Scenario",
+      "conservative": "Service & tune-up",
+      "realistic": "System modernization",
+      "ambitious": "Full replacement with renewables",
+      "squareMetersLabel": "Home size",
+      "gasUsageLabel": "Annual gas consumption",
+      "installationAgeLabel": "System age",
+      "ageNew": "New (0–5 years)",
+      "ageMedium": "Medium (6–15 years)",
+      "ageOld": "Older (16+ years)",
+      "savingsLabel": "Annual savings",
+      "reductionLabel": "Consumption reduction",
+      "newCostLabel": "New annual cost",
+      "whatWeDo": "What we do:",
+      "chart": "Cost comparison",
+      "share": "Share result on WhatsApp"
+    },
+    "water": {
+      "title": "Bottled Water vs RO Calculator",
+      "presetsLight": "Light usage (10L/week)",
+      "presetsMedium": "Moderate usage (35L/week)",
+      "presetsHeavy": "Heavy usage (60L/week)",
+      "litersLabel": "Liters per week",
+      "priceLabel": "Average price per liter",
+      "peopleLabel": "Number of people",
+      "bottledSpendLabel": "Annual bottled water cost",
+      "savingsLabel": "Annual savings",
+      "paybackLabel": "Payback period",
+      "lessWaste": "Less waste:",
+      "share": "Share result on WhatsApp"
+    }
+  },
+  "metadata": {
+    "titleMain": "Hydraulics & Water Systems — Softeners, RO, Heating",
+    "descriptionMain": "Save €400–€1,200 annually. Water softeners, reverse osmosis, heating modernization. Free quote, 5-year warranty. Roermond, Netherlands.",
+    "titleCalculator": "Savings Calculator — Hydraulics & Water Systems",
+    "descriptionCalculator": "Estimate realistic savings for your home. Water softener, heating, and bottled water calculators.",
+    "titlePrivacy": "Privacy Policy — Hydraulics & Water Systems",
+    "descriptionPrivacy": "Information about personal data protection and privacy."
+  }
+}

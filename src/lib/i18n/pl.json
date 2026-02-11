@@ -1,0 +1,246 @@
+{
+  "common": {
+    "phone": "+31 6 25379014",
+    "whatsappLink": "https://wa.me/31625379014",
+    "available24h": "Dostępni 24/7",
+    "availableNote": "Odpowiadamy w 24 godziny",
+    "warranty": "5 lat gwarancji",
+    "freeQuote": "Bezpłatna wycena",
+    "email": "kontakt@hydraulika-woda.nl",
+    "cities": ["Roermond", "Weert", "Echt", "Maasbracht", "Reuver", "Venlo", "Eindhoven", "Helmond", "Nederweert"]
+  },
+  "header": {
+    "brand": "Hydraulika & Woda",
+    "location": "Roermond & okolice",
+    "getQuote": "Bezpłatna wycena",
+    "language": "Język"
+  },
+  "hero": {
+    "badge": "Nowość: Kalkulator oszczędności",
+    "h1Line1": "Niższe rachunki.",
+    "h1Line2": "Sprawna instalacja.",
+    "h1Line3": "Spokój na lata.",
+    "subtitle": "Zmiękczacze wody, odwrócona osmoza, modernizacja instalacji i systemy grzewcze. Odpowiadamy w 24 godziny • Do 5 lat gwarancji • Bezpłatna wycena na miejscu.",
+    "ctaCalculator": "Policz oszczędności",
+    "ctaQuote": "Bezpłatna wycena",
+    "ctaWhatsapp": "WhatsApp",
+    "timeTip": "Zajmie Ci to 30 sekund. Wynik zobaczysz od razu.",
+    "savings": "Średnia roczna oszczędność:",
+    "trust1": "24h odpowiedź na zgłoszenie",
+    "trust2": "5 lat gwarancji na prace",
+    "trust3": "Bezpłatna wycena na miejscu",
+    "scroll": "Przewiń dla szczegółów ↓"
+  },
+  "services": {
+    "title": "Nasze usługi",
+    "subtitle": "Kompleksowe rozwiązania dla Twojego domu i biznesu",
+    "softener": {
+      "title": "Zmiękczacze wody",
+      "description": "Ochrona instalacji przed kamieniem osadowym",
+      "benefits": [
+        "Ochrona rur i urządzeń",
+        "Dłuższa żywotność sprzętu",
+        "Czystsza woda",
+        "Niższe rachunki"
+      ]
+    },
+    "RO": {
+      "title": "Odwrócona osmoza",
+      "description": "Čista woda do picia bezpośrednio z kranu",
+      "benefits": [
+        "Woda zdatna do picia",
+        "Oszczędność na butelkach",
+        "Bez plastiku",
+        "Wygodna instalacja"
+      ]
+    },
+    "heating": {
+      "title": "Systemy grzewcze",
+      "description": "Nowoczesna grzejność z niższymi kosztami",
+      "benefits": [
+        "Oszczędność energii",
+        "Automatyka inteligentna",
+        "Ciepło równomierne",
+        "Wsparcie serwisowe"
+      ]
+    },
+    "installation": {
+      "title": "Modernizacja instalacji",
+      "description": "Wymiana starych systemów na nowoczesne",
+      "benefits": [
+        "Bezpieczeństwo",
+        "Wydajność",
+        "Gwarancja",
+        "Profesjonalizm"
+      ]
+    },
+    "maintenance": {
+      "title": "Serwis i konserwacja",
+      "description": "Regularne przeglądy i naprawy systemów",
+      "benefits": [
+        "Prewendywna ochrona",
+        "Szybkie naprawy",
+        "Dostępność 24/7",
+        "Spokój ducha"
+      ]
+    },
+    "diagnosis": {
+      "title": "Diagnostyka bezpłatna",
+      "description": "Analiza stanu instalacji bez zobowiązań",
+      "benefits": [
+        "Szczegółowa ocena",
+        "Rekomendacje",
+        "Plan działań",
+        "Bez kosztów"
+      ]
+    }
+  },
+  "howItWorks": {
+    "title": "Jak to działa?",
+    "subtitle": "Prosty proces od kontaktu do rozwiązania",
+    "step1": {
+      "title": "Kontakt",
+      "description": "Zadzwoń, napisz SMS lub WhatsApp — odpowiemy w 24 godziny"
+    },
+    "step2": {
+      "title": "Wizyta diagnostyczna",
+      "description": "Przyjdziemy do Ciebie, przeanalizujemy system i wycenimy pracę"
+    },
+    "step3": {
+      "title": "Wycena",
+      "description": "Otrzymasz dokładną, bezobowiązkową ofertę na piśmie"
+    },
+    "step4": {
+      "title": "Instalacja & test",
+      "description": "Montaż przez ekipę specjalistów z gwarancją na pracę"
+    }
+  },
+  "faq": {
+    "title": "Najczęstsze pytania",
+    "q1": "Ile kosztuje zmiękczacz wody?",
+    "a1": "Cena zmiękczaczy waha się od 400 € do 2000 € w zależności od typu i rozmiaru domu. Najczęstsze systemy dla czteroosobowej rodziny kosztują 800–1200 €. Otrzymasz szczegółową wycenę bez zobowiązań.",
+    "q2": "Ile mogę zaoszczędzić rocznie?",
+    "a2": "Średnia oszczędność wynosi 400–1200 € rocznie (zależnie od rozmiaru domu i rodzaju instalacji). Zmiękczacz chroni także sprzęt przed zniszczeniem, co zwiększa oszczędności.",
+    "q3": "Jak długo trwa montaż?",
+    "a3": "Montaż typowego zmiękczacza trwa 3–5 godzin. System grzewczy może wymagać 1–3 dni w zależności od rozmiaru. Podamy dokładny czas podczas wizyty diagnostycznej.",
+    "q4": "Czy udzielacie gwarancji?",
+    "a4": "Tak — 5 lat na prace montażowe i 2–5 lat na urządzenie (zależnie od typu). Dodatkowo oferujemy serwis pogwarancyjny w cenie 50–80 € rocznie.",
+    "q5": "Kiedy możecie przyjechać?",
+    "a5": "Awarie: TAK — 24/7 przez WhatsApp. Montaże zaplanowane: poniedziałek-piątek, 8:00-17:00. Ale w nagłych wypadkach zadzwoń — tam gdzie się da, wyjeżdżamy szybko.",
+    "stillQuestion": "Nadal masz pytanie? Zadzwoń lub napisz na WhatsApp."
+  },
+  "contact": {
+    "title": "Skontaktuj się z nami",
+    "subtitle": "Pytania? Potrzebujesz wyceny? Napisz lub zadzwoń — czekamy na Ciebie!",
+    "phone": "Telefon",
+    "phoneDesc": "Zadzwoń teraz",
+    "phoneContent": "{{ phone }} (dostępni 24/7)",
+    "whatsapp": "WhatsApp",
+    "whatsappDesc": "Szybki kontakt",
+    "hours": "Godziny",
+    "hoursDesc": "Kiedy jesteśmy dostępni",
+    "hoursContent": "Poniedziałek–Piątek: 8:00–17:00\nAwarie: 24/7 przez WhatsApp",
+    "location": "Lokalizacja",
+    "locationDesc": "Gdzie nas znajdziesz",
+    "servesAreas": "Obsługujemy"
+  },
+  "trust": {
+    "title": "Dlaczego klienci wybierają nas?",
+    "fast": {
+      "title": "Szybka reakcja",
+      "description": "24h odpowiedź na zapytanie, awaryjnie 24/7"
+    },
+    "savings": {
+      "title": "Realne oszczędności",
+      "description": "Średnio 400–1200 € rocznie dla naszych klientów"
+    },
+    "warranty": {
+      "title": "Gwarancja",
+      "description": "5 lat na prace, 2–5 lat na urządzenie"
+    },
+    "specialist": {
+      "title": "Lokalny specjalista",
+      "description": "Roermond, Weert, Eindhoven i Venlo"
+    }
+  },
+  "privacy": {
+    "title": "Polityka Prywatności",
+    "intro": "Szanujemy Twoją prywatność. Dane kontaktowe przechowujemy jedynie do celów komunikacji i nie udostępniamy osobom trzecim."
+  },
+  "calculator": {
+    "title": "Policz oszczędności",
+    "subtitle": "Sprawdź realistyczne szacunki oszczędności dla Twojego domu",
+    "backHome": "← Powrót na stronę główną",
+    "benefit1": "Odpowiedź 24h",
+    "benefit1Desc": "Szybki kontakt i wstępna konsultacja",
+    "benefit2": "Bezpłatna wycena",
+    "benefit2Desc": "Dokładna analiza bez zobowiązań",
+    "benefit3": "5 lat gwarancji",
+    "benefit3Desc": "Spokój i pewność na lata",
+    "threeSections": "Trzy kalkulatory, trzy sposoby na oszczędności",
+    "eachCalc": "Każdy kalkulator to spersonalizowana analiza. Wystarczy kilka sekund i 3–4 kliknięcia.",
+    "softenerTag": "Woda twarda → złoża kamienia",
+    "heatingTag": "Ogrzewanie → zoptymalizowany koszt",
+    "waterTag": "Woda butelkowana → system RO",
+    "ctaHeading": "Spodobało Ci się? Czas na działanie.",
+    "ctaSubheading": "Umów bezpłatną wizytę diagnostyczną. Analizujemy Twój dom i przygotowujemy dokładną wycenę bez zobowiązań.",
+    "softener": {
+      "title": "Kalkulator zmiękczacza wody",
+      "savingsLabel": "Koszt kamienia rocznie",
+      "peopleLabel": "Liczba osób",
+      "hardnessLabel": "Twardość wody",
+      "floorHeating": "Mam ogrzewanie podłogowe",
+      "boiler": "Mam bojler elektryczny",
+      "howWeCalculate": "Jak liczymy?",
+      "explanation": "Koszt osadu = liczba osób × (twardość/10) × współczynniki (ogrzewanie podłogowe, bojler). Wynik mnożymy przez 120 € (średnia roczna cena usuwania osadu w regionie).",
+      "kpiBenefits": "Oszczędność rocznie",
+      "kpiRisk": "Ryzyko uszkodzenia",
+      "kpiSystem": "Rekomendacja",
+      "riskLow": "Niskie",
+      "riskMedium": "Średnie",
+      "riskHigh": "Wysokie",
+      "share": "Wyślij wynik na WhatsApp"
+    },
+    "heating": {
+      "title": "Kalkulator ogrzewania",
+      "scenarioTab": "Scenariusz",
+      "conservative": "Serwis i regulacja",
+      "realistic": "Modernizacja systemu",
+      "ambitious": "Wymiana i OZE",
+      "squareMetersLabel": "Metraż domu",
+      "gasUsageLabel": "Roczne zużycie gazu",
+      "installationAgeLabel": "Wiek instalacji",
+      "ageNew": "Nowa (0–5 lat)",
+      "ageMedium": "Średnia (6–15 lat)",
+      "ageOld": "Stara (16+ lat)",
+      "savingsLabel": "Roczna oszczędność",
+      "reductionLabel": "Redukcja zużycia",
+      "newCostLabel": "Nowy koszt roczny",
+      "whatWeDo": "Co robimy:",
+      "chart": "Porównanie kosztów",
+      "share": "Wyślij wynik na WhatsApp"
+    },
+    "water": {
+      "title": "Kalkulator wody butelkowanej",
+      "presetsLight": "Lekko (10L/tydzień)",
+      "presetsMedium": "Średnio (35L/tydzień)",
+      "presetsHeavy": "Dużo (60L/tydzień)",
+      "litersLabel": "Litry na tydzień",
+      "priceLabel": "Średni koszt za litr",
+      "peopleLabel": "Liczba osób",
+      "bottledSpendLabel": "Wydajesz na butelki rocznie",
+      "savingsLabel": "Oszczędność rocznie",
+      "paybackLabel": "Zwrot inwestycji",
+      "lessWaste": "Mniej śmieci:",
+      "share": "Wyślij wynik na WhatsApp"
+    }
+  },
+  "metadata": {
+    "titleMain": "Hydraulika & Woda — Zmiękczacze, RO, Szystemy Grzewcze",
+    "descriptionMain": "Oszczędź 400–1200 € rocznie. Zmiękczacze wody, odwrócona osmoza, modernizacja systemów grzewczych. Bezpłatna wycena, 5 lat gwarancji. Roermond.",
+    "titleCalculator": "Kalkulator oszczędności — Hydraulika & Woda",
+    "descriptionCalculator": "Policz realistyczne oszczędności dla Twojego domu. Kalkulator zmiękczacza, ogrzewania i wody butelkowanej.",
+    "titlePrivacy": "Polityka Prywatności — Hydraulika & Woda",
+    "descriptionPrivacy": "Informacja o ochronie danych osobowych i prywatności."
+  }
+}
