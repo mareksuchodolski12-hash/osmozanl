@@ -1,9 +1,10 @@
-import './globals.css'
+import Analytics from "./analytics";
+import "./globals.css";
 
 export default function RootLayout({
   children,
 }: {
-  children: React.ReactNode
+  children: React.ReactNode;
 }) {
   return (
     <html suppressHydrationWarning>
@@ -12,7 +13,8 @@ export default function RootLayout({
       </head>
       <body className="antialiased">
         {children}
+        <Analytics />
       </body>
     </html>
-  )
+  );
 }
