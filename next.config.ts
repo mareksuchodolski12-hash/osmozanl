@@ -30,12 +30,12 @@ const nextConfig: NextConfig = {
             key: 'Content-Security-Policy',
             value: `
               default-src 'self';
-              script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdn.jsdelivr.net https://*.vercel.app;
+              script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: https://cdn.jsdelivr.net https://*.vercel.app https://www.googletagmanager.com https://www.google-analytics.com;
               style-src 'self' 'unsafe-inline' https://fonts.googleapis.com blob:;
               font-src 'self' https://fonts.gstatic.com data: blob:;
               img-src 'self' data: https: blob:;
               media-src 'self' data: https: blob:;
-              connect-src 'self' https: wss: ws:;
+              connect-src 'self' https: wss: ws: https://www.google-analytics.com https://www.googletagmanager.com https://analytics.google.com;
               worker-src 'self' blob:;
               frame-ancestors 'none';
               base-uri 'self';
